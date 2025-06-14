@@ -1,0 +1,4 @@
+file 2 is created 
+need to be added to standing area 
+added to git copy folder ie local system
+pushed to github
